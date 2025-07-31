@@ -1,2 +1,2 @@
 # DeepLearningWithPython
-repositório de exercicios práticos feitos enquanto estudo o livro Deep Learning with Python, de François Chollet
+repositório de exercicios práticos e execução de códigos contidos no livro Deep Learning with Python, de François Chollet
